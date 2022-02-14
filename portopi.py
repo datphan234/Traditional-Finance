@@ -7,7 +7,7 @@ from pypfopt.efficient_frontier import EfficientFrontier
 from pypfopt import risk_models
 from pypfopt import expected_returns
 
-#FAANG
+#Stocks and Crypto
 assets=['FB','NFLX','AAPL','AMZN','GOOGL','MSFT', 'TSLA']
 assets2=['BTC-USD','ETH-USD']
 
